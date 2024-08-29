@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sjhoinde.github.io/sitemap/sitemap.NmM.gz
